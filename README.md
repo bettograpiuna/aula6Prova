@@ -1,5 +1,5 @@
 # Projeto: Aula 6
-[![Testar Projeto - Acessar][https://bettograpiuna.github.io/aula6Prova/]
+[![Testar Projeto - Acessar]([https://bettograpiuna.github.io/aula6Prova/])
 
 ## Sobre o projeto
 
@@ -20,7 +20,7 @@ Fluxo resumido: usuário escolhe ação via `prompt` → função correspondente
 
 ## ✅ Link de Teste
 
-Clique no botão acima para abrir o site do projeto em uma nova aba. Substitua `[https://bettograpiuna.github.io/aula6Prova/]` pelo link final do ambiente de teste.
+Clique no botão acima para abrir o site do projeto em uma nova aba. Ou a alternativa abaixo.
 
 > Alternativa: link direto — [https://bettograpiuna.github.io/aula6Prova/]
 
