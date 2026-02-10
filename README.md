@@ -1,5 +1,5 @@
 # Projeto: Aula 6
-[Testar Projeto - Acessar](https://bettograpiuna.github.io/aula6Prova/)
+<a href="https://bettograpiuna.github.io/aula6Prova/" target="_blank">Testar Projeto - Acessar</a>
 
 ## Sobre o projeto
 
