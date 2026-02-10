@@ -1,8 +1,6 @@
 # Projeto: Aula 6
 [![Testar Projeto - Acessar](https://img.shields.io/badge/Testar%20Projeto-Acessar-brightgreen)](YOUR_PROJECT_LINK_HERE)
 
-Uma página de exemplo criada para testar funcionalidades e interatividade — moderna, responsiva e pronta para testes de usuário.
-
 ## Sobre o projeto
 
 Projeto simples para demonstração de layout e interação; objetivo principal: facilitar testes de usabilidade e validação rápida de mudanças.
