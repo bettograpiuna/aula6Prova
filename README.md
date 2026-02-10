@@ -1,5 +1,5 @@
 # Projeto: Aula 6
-[![Testar Projeto - Acessar](https://img.shields.io/badge/Testar%20Projeto-Acessar-brightgreen)([https://bettograpiuna.github.io/aula6Prova/])
+[![Testar Projeto - Acessar][https://bettograpiuna.github.io/aula6Prova/]
 
 ## Sobre o projeto
 
@@ -20,9 +20,9 @@ Fluxo resumido: usuário escolhe ação via `prompt` → função correspondente
 
 ## ✅ Link de Teste
 
-Clique no botão acima para abrir o site do projeto em uma nova aba. Substitua `[[https://bettograpiuna.github.io/aula6Prova/]](https://bettograpiuna.github.io/aula6Prova/)` pelo link final do ambiente de teste.
+Clique no botão acima para abrir o site do projeto em uma nova aba. Substitua `[https://bettograpiuna.github.io/aula6Prova/]` pelo link final do ambiente de teste.
 
-> Alternativa: link direto — [https://YOUR_PROJECT_LINK_HERE](https://bettograpiuna.github.io/aula6Prova/)
+> Alternativa: link direto — [https://bettograpiuna.github.io/aula6Prova/]
 
 ---
 
