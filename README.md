@@ -1,5 +1,5 @@
 # Projeto: Aula 6
-[![Testar Projeto - Acessar]([https://bettograpiuna.github.io/aula6Prova/])
+[Testar Projeto - Acessar](https://bettograpiuna.github.io/aula6Prova/)
 
 ## Sobre o projeto
 
