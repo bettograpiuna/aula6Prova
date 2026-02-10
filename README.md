@@ -1,5 +1,7 @@
 # Projeto: Aula 6
-<a href="https://bettograpiuna.github.io/aula6Prova/" target="_blank">Testar Projeto - Acessar</a>
+<a href="https://bettograpiuna.github.io/aula6Prova/" target="_blank">
+  <img src="https://img.shields.io/badge/Testar%20Projeto-Acessar-brightgreen?style=for-the-badge&logo=javascript&logoColor=white" alt="Testar Projeto">
+</a>
 
 ## Sobre o projeto
 
